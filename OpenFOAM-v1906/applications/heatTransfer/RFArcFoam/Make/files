@@ -1,0 +1,3 @@
+RFArcFoam.C
+
+EXE = $(FOAM_APPBIN)/RFArcFoam

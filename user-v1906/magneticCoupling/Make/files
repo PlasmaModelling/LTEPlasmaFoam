@@ -1,0 +1,4 @@
+magneticCoupledBase/magneticCoupledBase.C
+turbulentMagneticCoupledMixed/turbulentMagneticCoupledMixedFvPatchVectorField.C
+
+LIB = $(FOAM_USER_LIBBIN)/libmagneticcoupling

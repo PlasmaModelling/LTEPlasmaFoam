@@ -1,0 +1,3 @@
+reactNetFoam.C
+
+EXE = $(FOAM_APPBIN)/reactNetFoam

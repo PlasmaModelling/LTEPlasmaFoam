@@ -1,0 +1,4 @@
+potentialCoupledBase/potentialCoupledBase.C
+turbulentPotentialCoupledMixed/turbulentPotentialCoupledMixedFvPatchScalarField.C
+
+LIB = $(FOAM_USER_LIBBIN)/libpotentialcoupling

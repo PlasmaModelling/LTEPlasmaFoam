@@ -1,0 +1,3 @@
+ApotFoam.C
+
+EXE = $(FOAM_APPBIN)/ApotFoam

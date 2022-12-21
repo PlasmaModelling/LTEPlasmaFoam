@@ -1,0 +1,4 @@
+multiRegionDCArcFoam.C
+
+EXE = $(FOAM_APPBIN)/multiRegionDCArcFoam
+

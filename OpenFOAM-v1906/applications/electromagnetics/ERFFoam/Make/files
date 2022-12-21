@@ -1,0 +1,3 @@
+ERFFoam.C
+
+EXE = $(FOAM_APPBIN)/ERFFoam
